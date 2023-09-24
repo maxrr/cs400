@@ -6,7 +6,7 @@ For this course, we were divided into groups of 8 and then into two groups of 4,
 
 For each project, every student in the class needed to submit an implementation of a certain data type in Java, which is why I have directories with \_solo appended to them - these are my submissions. The directories without \_solo are the full projects.
 
-I tried my best to erase any personal information of those in my group for these projects, but it's totally possible that I missed something. Just shoot me an email at max.r.rountree@gmail.com or open an issue or pull request and I'll delete whatever needs to be deleted.
+I tried my best to erase any personal information of those in my group for these projects, but it's totally possible that I missed something. Please email me at max.r.rountree@gmail.com and I'll remove whatever's necessary.
 
 ## Project 1: Hashtable
 
