@@ -1,12 +1,10 @@
 # CS400 (Programming III) Projects
 
-These are all of the projects that were assigned to me during the time I was taking this course. I didn't think far enough ahead to save the prompts for these projects, so the  section under each project is just my best guess of what the project was trying to teach us.
+These projects were assigned to the group that I was a member of. Each project's description is a summary of the project from my perspective, not the prompt that was given to us.
 
-For this course, we were divided into groups of 8 and then into two groups of 4, with each person having a role of either Frontend, Backend, Algorithm Engineer, or Data Wrangler. The course had three medium-sized projects through the year, where the four of us needed to collaborate and integrate our code with everyone else's. The first project brief was assigned, the second and third we were given a restriction (had to utilize a certain data type), but were allowed to be creative otherwise.
+For this course, we were divided into groups of eight and then into two groups of four, with each person taking a role of either Frontend, Backend, Algorithm Engineer, or Data Wrangler. The course had three medium-sized projects through the year, where the four of us needed to collaborate and integrate our code with everyone else's. The first project brief was assigned, the second and third we were given a restriction (i.e. had to utilize a certain data type), but were allowed to be creative otherwise.
 
-For each project, every student in the class needed to submit an implementation of a certain data type in Java, which is why I have directories with \_solo appended to them - these are my submissions. The directories without \_solo are the full projects.
-
-I tried my best to erase any personal information of those in my group for these projects, but it's totally possible that I missed something. Please email me at max.r.rountree@gmail.com and I'll remove whatever's necessary.
+For each project, every student in the class needed to submit an implementation of a certain data type or structure, which is why these directories with \_solo appended to them - these are my individual submissions. Unfortunately, I am unable to upload the full submission here due to class restrictions and concerns about plagiarism.
 
 ## Project 1: Hashtable
 
